@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T145&cache_seconds=1800&hide_title=true&show_icons=true&include_all_commits=true&line_height=25&bg_color=101010&text_color=e4e4e4&title_color=e06996&icon_color=03fc00"
+  <img src="https://github-readme-stats.vercel.app/api?username=T145&cache_seconds=1800&hide_title=true&hide=stars&show_icons=true&include_all_commits=true&line_height=25&bg_color=101010&text_color=e4e4e4&title_color=e06996&icon_color=03fc00"
        alt="GitHub Statistics"
        width="1337"
        height="321"

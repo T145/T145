@@ -1,3 +1,4 @@
+
 ▒█▀▄▒██▀░▄▀▀▒██▀░█▄░█░▀█▀░░▒▄▀▄░▄▀▀░▀█▀░█░█▒█░█░▀█▀░▀▄▀
 ░█▀▄░█▄▄░▀▄▄░█▄▄░█▒▀█░▒█▒▒░░█▀█░▀▄▄░▒█▒░█░▀▄▀░█░▒█▒░▒█▒
 
@@ -11,8 +12,8 @@
        referrerpolicy="no-referrer" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T145&cache_seconds=1800&layout=compact&hide_title=true&bg_color=101010&text_color=e4e4e4"
        alt="GitHub Top Languages"
-       width="2020"
-       height="420"
+       width="1337"
+       height="382"
        longdesc="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/readme.md"
        crossorigin="anonymous"
        referrerpolicy="no-referrer" />

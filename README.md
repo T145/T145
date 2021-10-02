@@ -18,3 +18,7 @@
        crossorigin="anonymous"
        referrerpolicy="no-referrer" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=0:3BC8BA,10:22A8D2,30:22A8D2,50:00BCF2,70:54BBC8,90:05aa9d,100:01786E&height=150&section=footer&text=🛥️&fontAlignY=40&descAlignY=90&desc=🐡             🐟                          🐠      "/>
+</p>

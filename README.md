@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=0:3BC8BA,10:22A8D2,30:22A8D2,50:00BCF2,70:54BBC8,90:05aa9d,100:01786E&height=150&section=footer&text=🛥️&fontAlignY=40&descAlignY=90&desc=🐡             🐟                          🐠      "
+  <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=0:3BC8BA,10:22A8D2,30:22A8D2,50:00BCF2,70:54BBC8,90:05aa9d,100:01786E&height=150&section=footer&text=%F0%9F%9B%A5%EF%B8%8F&fontAlignY=40&descAlignY=90&desc=%F0%9F%90%A1%20%E2%80%81%20%E2%80%81%20%20%E2%80%81%20%20%E2%80%81%E2%80%81%20%E2%80%81%F0%9F%90%9F%20%E2%80%81%E2%80%81%20%20%E2%80%81%20%E2%80%81%E2%80%81%20%E2%80%81%20%E2%80%81%20%E2%80%81%20%E2%80%81%20%E2%80%81%20%E2%80%81%20%E2%80%81%20%E2%80%81%E2%80%81%F0%9F%90%A0"
        alt="Speedboat Footer"
        longdesc="https://raw.githubusercontent.com/kyechan99/capsule-render/master/README.md"
        crossorigin="anonymous"

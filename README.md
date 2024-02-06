@@ -1,6 +1,4 @@
-<p align="center">
-  <blockquote>
-  <code>-----BEGIN PGP PUBLIC KEY BLOCK-----
+<p align="center"><blockquote><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Keybase OpenPGP v2.0.76
 Comment: https://keybase.io/crypto
 <br>
@@ -97,8 +95,14 @@ ate/6e18cg52Z7S/7SL61VN2/fiJ2evz37MbmqKOZ2FV1PXIHvpzX0UkBfEEIY2W
 J83snOy2GqJgP4OEW8I+PoalV6To8mjAZJRA9sRmsCVeAYeeUq64fsXVUAcOBQ32
 TDFkpv3jd0Zn02MzlUu+aA==
 =x3ML
------END PGP PUBLIC KEY BLOCK-----
-  </code></blockquote>
+-----END PGP PUBLIC KEY BLOCK-----</code></blockquote></p>
+
+<p align="center">
+  <img src="images/best-firewall.jpg"
+       alt="Meme"
+       longdesc="https://www.ranum.com/security/computer_security/papers/a1-firewall/"
+       crossorigin="anonymous"
+       referrerpolicy="no-referrer" />
 </p>
 
 <p align="center">
